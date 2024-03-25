@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "format": "biome format ./ --write",
+    "format": "biome format ./",
     "lint": "biome lint ./",
     "test": "vitest"
   },
