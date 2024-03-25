@@ -1,4 +1,4 @@
-import { menuItems } from "@/app/utils/menu-items";
+import { menuItems } from "../../utils/menu-items";
 
 // biome-ignore lint/complexity/noBannedTypes: <explanation>
 type HeaderProps = {};
